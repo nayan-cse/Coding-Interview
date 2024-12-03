@@ -8,11 +8,11 @@ This Laravel-based application demonstrates a robust authentication and user man
 
 ### Login Page
 
-![Login Page](/screenshots/login.png)
+![Login Page](public/images/login.JPG)
 
 ### Dashboard
 
-![Dashboard](/screenshots/dashboard.png)
+![Dashboard](public/images/Dashboard.JPG)
 
 ## 🛠 Tech Stack
 
